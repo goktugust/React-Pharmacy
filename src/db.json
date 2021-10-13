@@ -1,0 +1,237 @@
+
+
+
+
+{
+    "iller": [
+        {"adana": {
+            "il": {
+              "plaka": 1,
+              "belediye-ismi": "ADANA BÜYÜKŞEHİR",
+              "belediye-tel": "3224585831",
+              "belediye-faks": "3224543787",
+              "belediye-mail": "adana@adana-bld.gov.tr",
+              "belediye-web": "www.adana.bel.tr",
+              "nufus": "2149260",
+              "alankodu": "322",
+              "bolge": "AKDENİZ",
+              "bilgi": "Adana, Türkiye'nin bir ili ve en kalabalık altıncı şehri. 2015 yılı verilerine göre, 2.183.167 nüfusa sahiptir. Şehir merkezi, Akdeniz'den 30 km içeride Seyhan Nehri'nin üzerinde bulunmaktadır. Akdeniz sahil şeridinde ise Karataş ve Yumurtalık (Ayas) ismi ile iki adet sahil ilçesi bulunmaktadır. Yine Akdeniz üzerinde bulunan Ceyhan ilçesinde ise ticari amaçlı liman bulunmaktadır."
+            },
+            "seyhan": {
+              "belediye-ismi": "SEYHAN",
+              "belediye-tel": "3224328939",
+              "belediye-faks": "3224334970",
+              "belediye-mail": "basin@seyhanbel.tr",
+              "belediye-web": "www.seyhan.bel.tr",
+              "nufus": "771947",
+              "bilgi": "Seyhan, Türkiye'nin Adana ilinin bir ilçesidir. İlçe, tamamiyle Adana şehir merkezi içerisinde kabul edilmektedir ve tüm ilçeye bir alt tabaka belediye olan Seyhan Belediyesi hizmet vermektedir. Seyhan, Adana ilinin sakinlerinin % 35'ine ve Adana şehrinin sakinlerinin yaklaşık yarısına ev sahipliği yapmaktadır. Türkiye'deki en kalabalık beşinci metropol ilçe statüsündedir."
+            },
+            "yuregir": {
+              "belediye-ismi": "YÜREĞİR",
+              "belediye-tel": "3223212846",
+              "belediye-faks": "3223213602",
+              "belediye-mail": "bilgi@yuregir.bel.tr",
+              "belediye-web": "www.yuregir.bel.tr",
+              "nufus": "421455",
+              "bilgi": ""
+            },
+            "aladag": {
+              "belediye-ismi": "ALADAĞ",
+              "belediye-tel": "3225912018",
+              "belediye-faks": "3225912006",
+              "belediye-mail": "aladag.belediyesi@mynet.com",
+              "nufus": "17221",
+              "bilgi": "Doğusunda Kozan ilçesi, güneyinde İmamoğlu ve Karaisalı ilçeleri, batısında Pozantı ilçesi ve kuzeyinde Niğde ile Kayseri illeri vardır. Yüzölçümü 1.347 km² olup[4] nüfusu 2008 nüfus sayımına göre 18.249'dur.[5]"
+            },
+            "ceyhan": {
+              "belediye-ismi": "CEYHAN",
+              "belediye-tel": "3226134020",
+              "belediye-faks": "3226134026",
+              "belediye-mail": "info@ceyhan.bel.tr",
+              "belediye-web": "www.ceyhan.bel.tr",
+              "nufus": "159243",
+              "bilgi": ""
+            },
+            "feke": {
+              "belediye-ismi": "FEKE",
+              "belediye-tel": "3227412022",
+              "belediye-faks": "3227412154",
+              "belediye-mail": "fekebelediyesi@hotmail.com",
+              "belediye-web": "www.fekebel.tr",
+              "nufus": "18534",
+              "bilgi": "Feke ilk çağlardan günümüze kadar birçok kavim ve Devletlere yerleşim alanı olmuştur. Feke'nin MÖ 16. yüzyılda Hititlerin hakim olduğu bir federasyon bölgesinde kurulduğu rivayet edilmektedir. Son yıllarda Kayseri Kültepe ve Osmaniye Karatepe tablet ve yazıtlarından anlaşıldığına göre yönetim yeri Mezopotamya da ki Asur kenti olan, Asur Devleti vatandaşlarından oluşan tüccarlar MÖ 19. ve 18. yüzyılda Kültepe ve çevresi ile Anadolu’nun değişik yerlerinde ticaret kolonileri kurarak iyi örgütlenmiş bir Pazar ağı geliştirmişlerdir. MÖ 19. yüzyılda Asur ticaret kolonilerinin oluşturduğu Pazar ağında: İç Anadolu'nun yüksek Platoları ile Klikya Ovası arasındaki bağlantıyı sağlayan bir geçit olması ve bu güzergahtan geçen ticaret kervanlarının güvenliğini ve denetimini sağlamak amacıyla hakim noktalara karakollar kurulmuştur. Feke MÖ 6. yüzyılda Perslere, MÖ 333 yılında ise Persleri yenen Büyük İskenderin eline geçmiştir. İskenderden sonra MÖ 1. yüzyıl sonlarına doğru Roma İmparatorluğuna, daha sonraları Bizanslıların eline geçmiştir. 1375 yılında Mısır Memluklarının işgali ile Ermeni hakimiyetine son verildi. Vahka (Feke) Yavuz Sultan Selim’in 1517 yılında Mısır seferi sırasında Osmanlı Devleti tarafından ele geçirilmiştir. Sonraki yıllarda Yüreğir Türkmen Beylerinden Ramazanoğlu ailesinin idaresine girmiştir. Daha sonraki yıllarda Avşarlar, Varsaklar ile Kınık boyuna bağlı sırkıntı, bozdoğan, berber gibi Türkmen boyları bu bölgeyi yaylak olarak kullanmışlardır."
+            },
+            "imamoglu": {
+              "belediye-ismi": "İMAMOĞLU",
+              "belediye-tel": "3228921717",
+              "belediye-faks": "3228921717",
+              "belediye-mail": "imamoglubelediyesi@mynet.com",
+              "belediye-web": "www.imamoglu.bel.tr",
+              "nufus": "29748",
+              "bilgi": ""
+            },
+            "karaisali": {
+              "belediye-ismi": "KARAİSALI",
+              "belediye-tel": "3225513280",
+              "belediye-faks": "3225513287",
+              "belediye-mail": "info@karaisali.bel.tr",
+              "belediye-web": "www.karaisali.bel.tr",
+              "nufus": "22230",
+              "bilgi": ""
+            },
+            "karatas": {
+              "belediye-ismi": "KARATAŞ",
+              "belediye-tel": "3226813045",
+              "belediye-faks": "3226813045",
+              "belediye-mail": "info@karatasbelediyesi.com",
+              "nufus": "21862",
+              "bilgi": "Karataş, Adana'nın bir ilçesidir. Doğu Akdeniz bölgesinde Seyhan ve Ceyhan nehirlerinin doğal sınırları içerisinde kurulmuş olup Adana'ya 48 km uzaklıktadır."
+            },
+            "kozan": {
+              "belediye-ismi": "KOZAN",
+              "belediye-tel": "3225158400",
+              "belediye-faks": "3225158413",
+              "belediye-mail": "kozan@kozan.bel.tr",
+              "belediye-web": "www.kozan.bel.tr",
+              "nufus": "128153",
+              "bilgi": "İlçenin Kozan Dağı, Dengin Yoktur Kozan ve Kozan gibi çok sayıda tanıdık türküleri bulunmaktadır. Kozan TV ve Otağ TV adında iki televizyon kanalı, Kozan FM, Sis FM ve Kozan Barış FM adındada üç radyosu bulunmaktadır. 7 adet yerel gazetesi bulunan Kozan, internet haberciliğinde çoğu ilden ileri durumdadır. Eğitimdede oldukça iyi olan Kozan'ın Okuryazarlık Oranı çoğu ilçeden yüksektir. İlçede Çukurova Üniversitesi'ne bağlı yüksekokul mevcuttur. İlçeye 4 yıllık fakülte kurulmuştur. Ekonomide de yükselen güç olan Kozan'da Kozan Organize Sanayi Bölgesi bulunmaktadır. Türkiye'nin birçok yerinde Kozan'dan göç etmiş olanların kurmuş olduğu, Kozan adını taşıyan yerleşim yerleride mevcuttur ( Kozanlı, Kulu, Kozanlı, Soma, Kozan, Çandır, Kozan, Serik, Hacılar, Kayseri vb)."
+            },
+            "pozanti": {
+              "belediye-ismi": "POZANTI",
+              "belediye-tel": "3225813027",
+              "belediye-faks": "3225813507",
+              "belediye-mail": "belediye@pozanti.bel.tr",
+              "belediye-web": "www.pozanti.bel.tr",
+              "nufus": "20954",
+              "bilgi": "Tarihi boyunca Pozantı’ya çeşitli milletler tarafından değişik isimler verilmiştir. Pozantı’nın ilk çağlarda adı Pendonsis veya Pendosis]idi. Araplar El Bedendum demişler, Türkler de Bozantı ismini vermişlerdir."
+            },
+            "saimbeyli": {
+              "belediye-ismi": "SAİMBEYLİ",
+              "belediye-tel": "3227613300",
+              "belediye-faks": "3227612112",
+              "belediye-mail": "saimbeylibelediyesi@hotmail.com",
+              "belediye-web": "www.saimbeyli.bel.tr",
+              "nufus": "16572",
+              "bilgi": ""
+            },
+            "tufanbeyli": {
+              "belediye-ismi": "TUFANBEYLİ",
+              "belediye-tel": "3227818391",
+              "belediye-faks": "3227818391",
+              "belediye-mail": "tufanbeyli@tufanbeyli.bel.tr",
+              "belediye-web": "www.tufanbeyli.bel.tr",
+              "nufus": "18234",
+              "bilgi": "Doğusunda Kahramanmaraş (Göksun ilçesi), batısında Kayseri ili (Develi ve Tomarza ilçeleri), güneyinde Saimbeyli, kuzeyinde ise Kayseri (Sarız ilçesi) bulunur. Yüzölçümü 964 Km2, nüfus yoğunluğu yaklaşık 25 kişi/km2'dir. Coğrafi yapısı itibariyle bağlı olduğu Adana ve komşu illere çok uzaktır. Adana'ya 196, Kayseri'ye 178 ve Kahramanmaraş'a 160 km uzaklıktadır. Rakım 1474 m civarındadır. Kayseri'yle ekonomik ilişkisi vardır. Ekonomik olarak Kozan ve Kayseri'ye bağlıdır. Son zamanlarda Enerjisa 'nın yüklenici olduğu Güney Kore'li bir firmanın kurumunu yaptığı, Tufanbeyli Termik santrali bölge ekonomisine ciddi katkıda bulunmaktadır. Kömür rezervi yüksek olan bölgede halen kurulum çalışmaları devam etmekte olup, hali hazırda bir ünite deneme aşamalarını tamamlamış durumdadır."
+            },
+            "yumurtalik": {
+              "belediye-ismi": "YUMURTALIK",
+              "belediye-tel": "3226712017",
+              "belediye-faks": "3226712113",
+              "belediye-mail": "yumurtalikbelediyesi@mynet.com",
+              "belediye-web": "www.yumurtalik.tr",
+              "nufus": "18463",
+              "bilgi": ""
+            },
+            "saricam": {
+              "belediye-ismi": "SARIÇAM",
+              "belediye-tel": "3223414109",
+              "belediye-faks": "3223410808",
+              "belediye-mail": "info@saricam.bel.tr",
+              "belediye-web": "www.saricam.bel.tr",
+              "nufus": "138139",
+              "bilgi": ""
+            },
+            "cukurova": {
+              "belediye-ismi": "ÇUKUROVA",
+              "belediye-tel": "3222396464",
+              "belediye-faks": "3222480801",
+              "belediye-mail": "bilgi@cukrova.bel.tr",
+              "belediye-web": "www.cukurova.bel.tr",
+              "nufus": "346505",
+              "bilgi": "İlçenin 13 belediye 11 köyü Vardır. 9 belediye Adana Büyükşehir Belediyesi'nin parçasıdır, geri kalan dördü Büyükşehir Belediye dışındadır. Büyükşehir dışındakiler; Salbaş, Kocatepe ve Gökkuyu."
+            }
+          }},
+          {"adiyaman": {
+            "il": {
+              "plaka": 2,
+              "belediye-ismi": "ADIYAMAN",
+              "belediye-tel": "4162161020",
+              "belediye-faks": "4162161027",
+              "belediye-mail": "bim@adiyaman.bel.tr",
+              "belediye-web": "www.adiyaman.bel.tr",
+              "nufus": "224215",
+              "alankodu": "416",
+              "bolge": "GÜNEYDOĞU ANADOLU",
+              "bilgi": "Adıyaman, Adıyaman ilinin merkezi olan ilçedir."
+            },
+            "besni": {
+              "belediye-ismi": "BESNİ",
+              "belediye-tel": "4163181009",
+              "belediye-faks": "4163181221",
+              "belediye-web": "www.besni.bel.tr",
+              "nufus": "28213",
+              "bilgi": ""
+            },
+            "celikhan": {
+              "belediye-ismi": "ÇELİKHAN",
+              "belediye-tel": "4164512011",
+              "belediye-faks": "4164512011",
+              "belediye-mail": "celikhan02@gmail.com",
+              "belediye-web": "www.celikhan.bel.tr",
+              "nufus": "8406",
+              "bilgi": "2015 Adrese Dayalı Nüfus Kayıt Sistemine göre Çelikhan ilçesinin merkez nüfusu 8.405 olup, bucak ve köylerle birlikte 15.213’dır.ADNKS[1]"
+            },
+            "gerger": {
+              "belediye-ismi": "GERGER",
+              "belediye-tel": "4164312127",
+              "belediye-faks": "4164312223",
+              "belediye-web": "www.gerger.bel.tr",
+              "nufus": "3187",
+              "bilgi": "\nGerger, Adıyaman ilinin bir ilçesidir."
+            },
+            "golbasi": {
+              "belediye-ismi": "GÖLBAŞI",
+              "belediye-tel": "4167816100",
+              "belediye-faks": "4167816197",
+              "belediye-mail": "baskan@golbasi.bel.tr",
+              "belediye-web": "www.golbasi.bel.tr",
+              "nufus": "28652",
+              "bilgi": "Gölbaşı, Adıyaman ilinin bir ilçesidir."
+            },
+            "kahta": {
+              "belediye-ismi": "KAHTA",
+              "belediye-tel": "5324215437",
+              "belediye-faks": "4167257898",
+              "belediye-mail": "kahta@kahta.bel.tr",
+              "belediye-web": "www.kahta.bel.tr",
+              "nufus": "68367",
+              "bilgi": ""
+            },
+            "samsat": {
+              "belediye-ismi": "SAMSAT",
+              "belediye-tel": "4164112025",
+              "belediye-faks": "4164112024",
+              "belediye-mail": "info@samsatbelediyesi.com@@",
+              "belediye-web": "www.samsatbelediyesi.com",
+              "nufus": "4268",
+              "bilgi": ""
+            },
+            "sincik": {
+              "belediye-ismi": "SİNCİK",
+              "belediye-tel": "4164212008",
+              "belediye-faks": "4164212007",
+              "belediye-web": "www.sincik.bel.tr",
+              "nufus": "4157",
+              "bilgi": "İlçenin başlıca kültürlerinin yanı sıra sanatsal kültürleri gelişmiş ve oldukça mana kazanmıştı. Sincik'in yeni yeni yetiştirdiği genç sanatçı ve ozanlar Türkiye'nin dört köşesinde Sincik'in namı ve manasını büyütmektelerdir."
+            },
+            "tut": {
+              "belediye-ismi": "TUT",
+              "belediye-tel": "4164412002",
+              "belediye-faks": "4164412541",
+              "belediye-web": "www.tut.bel.tr",
+              "nufus": "3718",
+              "bilgi": "Adıyaman'ın kuzey batısında, Güney Doğu Torosların bir uzantısı olan Hacı Muhammed Dağı'nın eteklerinde, \"yeşillikler beldesi\" olarak bilinen[kaynak belirtilmeli] bir ilçedir. Yolu dağlar arasından gitmekte olup, 14 kilometresi oldukça virajlıdır. İlçe nüfusunun yaklaşık 85-90%'ni Türkmenlerden oluşur ve sadece Türkçe konuşurlar."
+            }
+          }}
+    ]
+}
