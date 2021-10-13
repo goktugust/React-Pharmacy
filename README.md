@@ -13,32 +13,14 @@ JavaScript Urun Tanitim
 ## Application Images
 
 <p>
-<a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_1.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_1.png" width="200" style="max-width:100%;"></a>
   
-  <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_2.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_2.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_1_p.png" target="_blank">
+<img src="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_1_p.png" width="200" style="max-width:100%;"></a>
   
-  <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_3.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_3.png" width="200" style="max-width:100%;"></a>
+  <a href="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_2_p.png" target="_blank">
+<img src="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_2_p.png" width="200" style="max-width:100%;"></a>
   
-  <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_4.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_4.png" width="200" style="max-width:100%;"></a>
+  <a href="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_3_p.png" target="_blank">
+<img src="https://github.com/goktugust/React-Pharmacy/blob/master/images/resim_3_p.png" width="200" style="max-width:100%;"></a>
   
- <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_5.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_5.png" width="200" style="max-width:100%;"></a>
-  
- <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_6.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_6.png" width="200" style="max-width:100%;"></a>
-  
- <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_7.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_7.png" width="200" style="max-width:100%;"></a>
-  
- <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_8.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_8.png" width="200" style="max-width:100%;"></a>
-  
- <a href="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_9.png" target="_blank">
-<img src="https://github.com/goktugust/JavaScript-Urun-Tanitim/blob/main/readmeImages/e_commerce_9.png" width="200" style="max-width:100%;"></a>
-  
-
 </p>
