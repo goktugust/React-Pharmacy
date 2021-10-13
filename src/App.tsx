@@ -104,7 +104,7 @@ function App() {
   return (
     <>
       <Container>
-      <Grid columns="2">
+      <Grid style={{marginTop:40}} columns="2">
           <GridColumn>
             <Dropdown 
             onChange={(evt)=>{slugNameForSelectedOption(String(evt.currentTarget.children[0].textContent))}}

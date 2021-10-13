@@ -1,7 +1,7 @@
 import axios from "axios";
 
- const apiToken = 'oVkqoUHLscoxBgOUdXkwDQFEAt1MtqkJXaM9KeA9ezExd0jz6prbANOKUmdO';
-//const apiToken = 'Pp4xCoBXFePcujQZqbhrKRIZntLxLTRZyIEMTteFEHcfzfyYcpgBIxPYwvxH';
+//  const apiToken = 'oVkqoUHLscoxBgOUdXkwDQFEAt1MtqkJXaM9KeA9ezExd0jz6prbANOKUmdO';
+const apiToken = 'Pp4xCoBXFePcujQZqbhrKRIZntLxLTRZyIEMTteFEHcfzfyYcpgBIxPYwvxH';
 
 export const service = axios.create({
     baseURL: "/apiv2/pharmacy",
